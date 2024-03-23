@@ -1,4 +1,4 @@
-  name: Run my python
+name: Run my python
 
 on:
   push: # do this every push
